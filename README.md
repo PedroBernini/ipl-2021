@@ -1,2 +1,3 @@
-# ipl-2021
-Problemas para o curso Introdução à Linguagem Python
+# Problemas do curso IPL-2021
+
+Lista de arquivos para cada problema.
