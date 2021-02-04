@@ -8,8 +8,7 @@ def getGeometricMean(numbers):
         for number in numbers:
             product *= number
         return product ** (1 / len(numbers))
-    else:
-        None
+    return None
 
 out = getGeometricMean(numbers)
 print(out)
